@@ -1,0 +1,7 @@
+Nella prima fase dell'analisi dei dati, ho deciso di esportare tutte i file per capire quale tabelle lasciare. 
+Succesivamente ho eliminato alcune tabelle ed ho iniziato a pulire le tabelle passando cosi alla seconda fase 
+della preparazione del dato usando Power Query.
+Dopo di che, ho costruito un modello logico facendo delle relazione tra tabelle. 
+Poi ho iniziato a creare le misure; delle visualizzaioni su 4 fogli, la principale per un recap e altre 3 per ogni task richiesto; 
+i bottoni per la navigazione e altri grafici per popolare le pagine .
+Infine, ho pubblicato il lavoro su Power BI Service con il mio nome e cognome. 
